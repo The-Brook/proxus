@@ -1,0 +1,21 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "item": "minecraft:redstone"
+        }
+    ],   
+    "result": {
+        "item": "minecraft:gunpowder",
+        "count": 1
+    }
+}
